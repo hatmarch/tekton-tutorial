@@ -1,14 +1,15 @@
 ---
-name: Bug report
-about: Report the issues that you face when running the tutorial, if you have question
-  please use the Question template
-title: "[BUG] Short Description of your issue"
-labels: bug, good first issue
-assignees: ''
+name: Question Template
+about: Ask questions to Tutorial Authors
+title: "[QUESTION]"
+labels: help wanted, question
+assignees: blues-man, burrsutter, hatmarch, kameshsampath, lordofthejars, sebastienblanc
 
 ---
 
-**Describe the bug**
+/question 
+
+**Describe the Question**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -22,7 +23,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain your question.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
@@ -33,4 +34,4 @@ If applicable, add screenshots to help explain your problem.
  - OpenShift Version: Output of `oc version` or Minikube Version: Output of `minikube version`
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the question here.
